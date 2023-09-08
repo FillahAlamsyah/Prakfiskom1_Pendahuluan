@@ -1,0 +1,12 @@
+Penjelasan Program
+
+Tujuan Program :
+1.
+2.
+
+
+Cara kerja :
+Input : Data Kecepatan awal
+Proses : Rumus GLBB
+Output : Grafik V terhadap t
+
